@@ -1,4 +1,1 @@
-print("")
-print("")
-print("")
-print("")
+print("Hello")
