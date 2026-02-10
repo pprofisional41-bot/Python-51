@@ -1,0 +1,36 @@
+body {
+ background: #000;   
+ color: #fff;
+ font-family: 'Verdana', sans-serif
+}
+a {
+color: brown;
+text-decoration:none;
+}
+
+a:hover {
+color: aqua;
+text-decoration:none;
+}
+
+b {
+color: blue;    
+}
+
+p {
+font-family: monospace  
+}
+
+.kondin {
+font-family: 'Tahoma', sans-serif;
+background: #dedede;
+color: black;
+padding: 200px 40px;
+margin: 200px 40px;
+border-radius: 15000px 120px 3000px 5000px  ; 
+}
+/*Изменения ширины отступа , длинны отступа*/
+
+.spang {
+color: aqua    
+}
